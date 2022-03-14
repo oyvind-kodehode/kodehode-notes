@@ -52,5 +52,6 @@ pdf: $(PDFFILES)
 test:
 	if ls *.html >/dev/null 2>&1; then \
 		xmllint --noout *.html \
-		&& tidy -q -o /dev/null *.html; \
+		&& tidy -q -o /dev/null *.html \
+		|| exit 1; \
 	fi
