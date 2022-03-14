@@ -2,7 +2,8 @@
 
 ## File list
 
-  - [`notes.md`](notes.md) — Various random notes.
+  - [`javascript.md`](javascript.md) — Javascript notes
+  - [`notes.md`](notes.md) — Various random notes
 
 ----
 

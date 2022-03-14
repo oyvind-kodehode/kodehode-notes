@@ -3,9 +3,11 @@
 
 HTMLFILES  =
 HTMLFILES += README.html
+HTMLFILES += javascript.html
 HTMLFILES += notes.html
 PDFFILES  =
 PDFFILES += README.pdf
+PDFFILES += javascript.pdf
 PDFFILES += notes.pdf
 
 .PHONY: all
