@@ -33,7 +33,7 @@ for `css grid vs flexbox` says
 
   - [CSS Grid vs. Flexbox: Which should you use and 
     when?](https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184)
-  - [Does CSS Grid Replace 
+  - [Does CSS Grid replace 
     Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
 
 ## Tutorials
@@ -47,6 +47,8 @@ for `css grid vs flexbox` says
 
 ### Video
 
+  - [Learn Flexbox for free - 
+    Scrimba.com](https://scrimba.com/learn/flexbox)
   - [Flexbox tutorial (CSS): Real layout 
     examples](https://www.youtube.com/watch?v=k32voqQhODc)
   - [Learn Flexbox in 20 minutes | Learn HTML & CSS | Flexbox 
