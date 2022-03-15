@@ -2,6 +2,7 @@
 
 ## File list
 
+  - [`flexbox.md`](flexbox.md) — Flexbox notes
   - [`javascript.md`](javascript.md) — Javascript notes
   - [`notes.md`](notes.md) — Various random notes
 

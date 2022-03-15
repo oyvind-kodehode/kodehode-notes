@@ -3,10 +3,12 @@
 
 HTMLFILES  =
 HTMLFILES += README.html
+HTMLFILES += flexbox.html
 HTMLFILES += javascript.html
 HTMLFILES += notes.html
 PDFFILES  =
 PDFFILES += README.pdf
+PDFFILES += flexbox.pdf
 PDFFILES += javascript.pdf
 PDFFILES += notes.pdf
 
