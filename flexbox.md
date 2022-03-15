@@ -57,6 +57,10 @@ for `css grid vs flexbox` says
     HTML and CSS | Flexbox 
     tutorial](https://www.youtube.com/watch?v=0e02dl66PYo)
 
+## Exercises
+
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+
 ## Terminology
 
 From [Wikipedia](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout):
