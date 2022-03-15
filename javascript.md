@@ -3,9 +3,9 @@
 ## About Javascript Media Types
 
 They say it's not necessary to use `type=` in `<script>` because 
-Javascript is the default, but I disagree. Fair enogh, Javascript is the 
-Current Thing™ right *now*, but how is the situation in 10 years or so? 
-Some new fancy thing might come around and all old code has to be 
+Javascript is the default, but I disagree. Fair enough, Javascript is 
+the Current Thing™ right *now*, but how is the situation in 10 years or 
+so? Some new fancy thing might come around and all old code has to be 
 changed. Do it correctly now and avoid the pain later.
 
 And then there's the big question: `application/javascript` or 
@@ -61,7 +61,7 @@ inconsistent and wrong.
 ``` html
 <p id="demo"></p>
 
-<script type="application/javascript">
+<script type="text/javascript">
   document.getElementById("demo").innerHTML = "Hello";
 </script>
 ```
@@ -74,7 +74,7 @@ inconsistent and wrong.
 ``` html
 <p id="demo"></p>
 
-<script>
+<script type="text/javascript">
   document.getElementsByTagName("p")[0].innerHTML = "Hello";
 </script>
 ```
@@ -87,8 +87,8 @@ inconsistent and wrong.
 <p class="test"></p>
 <p class="test"></p>
 
-<script>
-document.getElementsByClassName("test")[0].innerHTML = "Hello";
+<script type="text/javascript">
+  document.getElementsByClassName("test")[0].innerHTML = "Hello";
 </script>
 ```
 
@@ -98,8 +98,8 @@ document.getElementsByClassName("test")[0].innerHTML = "Hello";
 
 ``` html
 <img id="image" src="smiley.gif">
-<script>
-document.getElementById("image").src = "pic_mountain.jpg";
+<script type="text/javascript">
+  document.getElementById("image").src = "pic_mountain.jpg";
 </script>
 ```
 
