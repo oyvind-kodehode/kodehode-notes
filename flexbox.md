@@ -119,6 +119,33 @@ The following terms are associated with the flexbox layout model.
       flex container, each dealing with the main and cross axes 
       respectively.
 
+## Tutorial notes
+
+### Scrimba
+
+From <https://scrimba.com/learn/flexbox/>:
+
+``` css
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  flex-direction: row;
+}
+```
+
+`flex-direction`: `row` is the default and presents the elements in 
+horizontal order. Setting it to `column` places them vertically.
+
+`justify-content`: Can have the values
+  - `flex-start` — default, places all elements at start of line
+  - `flex-end` — places elements at EOL
+  - `center`
+  - `space-around` — equal amount of space on the left and right hand 
+    side)
+  - `space-between` — inserts space between elements, no space outside 
+    elements
+  - `space-evenly`
+
 ----
 
     File ID: 3ff79482-a456-11ec-88a5-c977de6e8194
