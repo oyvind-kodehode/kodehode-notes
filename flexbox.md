@@ -31,31 +31,22 @@ for `css grid vs flexbox` says
 
 ### Links
 
-  - [CSS Grid vs. Flexbox: Which should you use and 
-    when?](https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184)
-  - [Does CSS Grid replace 
-    Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
+  - [CSS Grid vs. Flexbox: Which should you use and when?](https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184)
+  - [Does CSS Grid replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
 
 ## Tutorials
 
 ### Text
 
-  - [A complete guide to Flexbox | 
-    CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  - [CSS Flexbox (Flexible Box) - 
-    W3Schools](https://www.w3schools.com/css/css3_flexbox.asp)
+  - [A complete guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [CSS Flexbox (Flexible Box) - W3Schools](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ### Video
 
-  - [Learn Flexbox for free - 
-    Scrimba.com](https://scrimba.com/learn/flexbox)
-  - [Flexbox tutorial (CSS): Real layout 
-    examples](https://www.youtube.com/watch?v=k32voqQhODc)
-  - [Learn Flexbox in 20 minutes | Learn HTML & CSS | Flexbox 
-    tutorial](https://www.youtube.com/watch?v=FTlczfR82mQ)
-  - [CSS Flexbox tutorial | Learn to create layouts using CSS | Learn 
-    HTML and CSS | Flexbox 
-    tutorial](https://www.youtube.com/watch?v=0e02dl66PYo)
+  - [Learn Flexbox for free - Scrimba.com](https://scrimba.com/learn/flexbox)
+  - [Flexbox tutorial (CSS): Real layout examples](https://www.youtube.com/watch?v=k32voqQhODc)
+  - [Learn Flexbox in 20 minutes | Learn HTML & CSS | Flexbox tutorial](https://www.youtube.com/watch?v=FTlczfR82mQ)
+  - [CSS Flexbox tutorial | Learn to create layouts using CSS | Learn HTML and CSS | Flexbox tutorial](https://www.youtube.com/watch?v=0e02dl66PYo)
 
 ## Exercises
 
