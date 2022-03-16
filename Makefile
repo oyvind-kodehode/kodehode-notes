@@ -7,12 +7,14 @@ HTMLFILES += flexbox.html
 HTMLFILES += html.html
 HTMLFILES += javascript.html
 HTMLFILES += notes.html
+HTMLFILES += pwa.html
 PDFFILES  =
 PDFFILES += README.pdf
 PDFFILES += flexbox.pdf
 PDFFILES += html.pdf
 PDFFILES += javascript.pdf
 PDFFILES += notes.pdf
+PDFFILES += pwa.pdf
 
 .PHONY: all
 all:

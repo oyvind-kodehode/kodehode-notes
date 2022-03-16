@@ -2,10 +2,16 @@
 
 ## File list
 
+### English
+
   - [`flexbox.md`](flexbox.md) — Flexbox notes
   - [`html.md`](html.md) — HTML notes
   - [`javascript.md`](javascript.md) — Javascript notes
   - [`notes.md`](notes.md) — Various random notes
+
+### Norwegian
+
+  - [`pwa.md`](pwa.md) — Notes from lecture about PWA
 
 ----
 
