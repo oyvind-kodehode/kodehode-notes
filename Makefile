@@ -3,6 +3,7 @@
 
 HTMLFILES  =
 HTMLFILES += README.html
+HTMLFILES += css.html
 HTMLFILES += flexbox.html
 HTMLFILES += html.html
 HTMLFILES += javascript.html
@@ -10,6 +11,7 @@ HTMLFILES += notes.html
 HTMLFILES += pwa.html
 PDFFILES  =
 PDFFILES += README.pdf
+PDFFILES += css.pdf
 PDFFILES += flexbox.pdf
 PDFFILES += html.pdf
 PDFFILES += javascript.pdf
