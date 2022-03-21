@@ -49,6 +49,21 @@ and further down in section 2:
 So the proper thing to use is `text/javascript` even though it's 
 inconsistent and wrong.
 
+## Pitfalls
+
+### Empty `<script>` elements don't work
+
+`<script type="text/javascript" src="index.js" />` doesn't work, you'll 
+need both a start and end element:
+
+``` html
+<script type="text/javascript" src="index.js"></script>
+```
+
+Not very intuitive, but there's probably a reason for it. A discussion 
+about it can be found 
+[here](https://stackoverflow.com/questions/69913/why-dont-self-closing-script-elements-work).
+
 ## Some exercises from <https://www.w3schools.com/js/>
 
 ### JS HTML DOM
