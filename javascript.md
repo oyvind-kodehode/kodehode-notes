@@ -118,6 +118,162 @@ about it can be found
 </script>
 ```
 
+## Lecture notes
+
+This section might contain errors because the notes were taken live.
+
+### Monday 2022-03-31 10:00
+
+#### Methods
+
+What is a method?
+
+  - Function which is a property of an object
+  - Two types:
+    - Instance metjhods
+      - Built-in
+
+`.length` - Gives you the number of characters
+
+`.indexOf`
+
+  - Tells you where a strirng is in a longer string
+  - Search for a word
+  - `indexOf(whatYouWantToSearchFor)`
+
+`.slice`
+
+  - Slices a string
+  - Returns a new string
+  - `nameOfString.slice(startIndex)`
+
+`.string.toLowerCase()`
+
+`.replace`
+
+  - Replaces one word with another
+  - Returns a new string
+  - `Text.replace(wantreplaces, wanttoreplacewith)`
+
+`.concat`
+
+  - Stiches together two strings
+  - Returns a new string
+  - Can take as many arguments as you want to
+  - `text.concat(string1, string2, ...)`
+
+#### Arrays
+
+`.every`
+
+  - Checks if _all_ the elems passes the test
+  - Returns a bool
+  - Needs a function as an argument
+  - `array.every(function)`
+
+`.fill`
+
+  - Replaces elements
+  - Doesn't have to be a number
+  - Can specify start and stop
+  - `array.fill(valuetoinsert, [indexStart, indexEnd])`
+
+`.filter`
+
+  - Creates a new array
+  - Fills it with elements
+  - `Array.filter(nameOfFunctionToRun)`
+
+`.find`
+
+  - Finds an element
+  - Stops at the first
+  - Returns undefined if it doesn't find anything
+  - `array.find(nameOfFunction)`
+
+`.forEach`
+
+  - Runs a function for each element in the array
+  - `nameOfArray.forEach(functionName)`
+
+`.map`
+
+  - Gives a new array
+  - Fills it based on a function
+
+`.push`
+
+  - Pushes one or more elements
+  - Places them at the end of the array
+  - `.array.push(whatYouWantToAdd)`
+
+`.splice`
+
+  - Removes or replaces elements
+  - Can also delete elements
+  - Can be used to add an element at a specific index
+  - `array.splice(indexWhereYouWantToStartTheSplice, 
+    howManyItemsYouWanToDelete, itemToAdd)`
+
+`.sort`
+
+  - Sorts the element
+  - Converts the elements to strings before sorting
+
+`.length`
+
+  - Tells you the number of characters in the array
+
+#### DOM
+
+  - Document Object Model
+  - Nodes
+
+`getElementById`
+
+  - Elements with the same name
+  - let nameOfCVartostoreoutput = document.getElementById(id);
+
+`getElementsByClassName`
+
+  - Array-like list of child elements
+
+`getElementsByName`
+
+  - Returns a nodelist
+
+`querySelector`
+
+  - Returns first element match
+
+`querySelectorAll`
+
+  - Returns all elems that match in the dom
+  - Can not use number as an argument
+
+NodeList vs HTML collection
+
+  - Element
+  - Text
+  - Cdata section
+  - Processing instruction
+  - Comment
+  - Document
+  - Document tile
+  - Document fraagment
+
+Difference
+
+  - Nodelist can be any type of node
+  - HTML collection _must_ be an element node
+  - NodeList
+    - querySelectAll
+    - getElementsByName
+  - HTML collection
+    - getElementsByClassName
+    - getElementById
+    - querySelector
+
 ----
 
     File ID: b8bc16f0-a397-11ec-b4f6-4bbcd9b213f6
