@@ -36,7 +36,7 @@ hvis nettsiden din tilfredsstiller kravene til PWA.
 
 ## Bakdeler med PWA vs native apps
 
-  - Noe begrenset støøtte i Safari/iOS.
+  - Noe begrenset støtte i Safari/iOS.
   - Begrenset tilgang til native device-funksjoner. F.eks. kamera.
   - Dårligere ytelse på grafikktunge spill.
 

@@ -130,14 +130,14 @@ What is a method?
 
   - Function which is a property of an object
   - Two types:
-    - Instance metjhods
+    - Instance methods
       - Built-in
 
 `.length` - Gives you the number of characters
 
 `.indexOf`
 
-  - Tells you where a strirng is in a longer string
+  - Tells you where a string is in a longer string
   - Search for a word
   - `indexOf(whatYouWantToSearchFor)`
 
@@ -157,7 +157,7 @@ What is a method?
 
 `.concat`
 
-  - Stiches together two strings
+  - Stitches together two strings
   - Returns a new string
   - Can take as many arguments as you want to
   - `text.concat(string1, string2, ...)`
@@ -166,7 +166,7 @@ What is a method?
 
 `.every`
 
-  - Checks if _all_ the elems passes the test
+  - Checks if _all_ the elements passes the test
   - Returns a bool
   - Needs a function as an argument
   - `array.every(function)`
@@ -217,7 +217,7 @@ What is a method?
 
 `.sort`
 
-  - Sorts the element
+  - Sorts the elements
   - Converts the elements to strings before sorting
 
 `.length`
@@ -232,7 +232,7 @@ What is a method?
 `getElementById`
 
   - Elements with the same name
-  - let nameOfCVartostoreoutput = document.getElementById(id);
+  - `let nameOfCVartostoreoutput = document.getElementById(id);`
 
 `getElementsByClassName`
 
@@ -248,31 +248,31 @@ What is a method?
 
 `querySelectorAll`
 
-  - Returns all elems that match in the dom
+  - Returns all elements that match in the DOM
   - Can not use number as an argument
 
 NodeList vs HTML collection
 
   - Element
   - Text
-  - Cdata section
+  - CDATA section
   - Processing instruction
   - Comment
   - Document
   - Document tile
-  - Document fraagment
+  - Document fragment
 
 Difference
 
   - Nodelist can be any type of node
   - HTML collection _must_ be an element node
   - NodeList
-    - querySelectAll
-    - getElementsByName
+    - `querySelectAll`
+    - `getElementsByName`
   - HTML collection
-    - getElementsByClassName
-    - getElementById
-    - querySelector
+    - `getElementsByClassName`
+    - `getElementById`
+    - `querySelector`
 
 ----
 
