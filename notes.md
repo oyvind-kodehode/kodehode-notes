@@ -3,6 +3,14 @@
 This file contains various random notes about several topics. If a 
 section grows too big, it will be promoted to its own file.
 
+## Figma
+
+<https://figma.com>
+
+Rectangles: Hold shift when resizing and it will keep it square.
+Libraries: Designs can be shared into the library pool and other people 
+can "clone" it by pressing Duplicate.
+
 ## Legalspeak
 
 ### GDPR (General Data Protection Regulation)
@@ -53,6 +61,9 @@ Go to <https://html.new> to start a new Scrimba document.
   - [WhatTheFont](https://www.myfonts.com/WhatTheFont/) — Instant font 
     identification powered by the world’s largest collection of fonts.
     - Drop an image to identify which font is used in the image.
+  - <https://wireframe.cc>
+  - <https://clickup.com>
+  - <https://codeacademy.com>
 
 ----
 
