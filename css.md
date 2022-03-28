@@ -20,8 +20,8 @@
 
 The `opacity` can have values from 0 to 1.
 
-The following example sets opacity to 0.5 for images when hovering with 
-the mouse above it:
+The following example sets opacity to 0.5 for images when hovering with the 
+mouse above it:
 
 ``` css
 img { opacity: 0.5; }
@@ -41,5 +41,5 @@ rgba(134, 36, 226, 0.3)
 ----
 
     File ID: 498be7e0-a529-11ec-aa6d-f12e5a7d320e
-    vim: set ts=2 sw=2 sts=2 tw=72 et fo=tcqw fenc=utf8 :
+    vim: set ts=2 sw=2 sts=2 tw=79 et fo=tcqw fenc=utf8 :
     vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown :
