@@ -52,6 +52,43 @@ nav {
 }
 ```
 
+## `<picture>` tag
+
+### Example
+
+From <https://www.w3schools.com/tags/tag_picture.asp>, slightly modified to 
+make it well-formed:
+
+``` html
+<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg" />
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg" />
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;" />
+</picture>
+```
+
+## Image map
+
+### Example
+
+From <https://www.w3schools.com/html/html_images_imagemap.asp> (slightly 
+modified to make it well-formed):
+
+``` html
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap" />
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer"
+        href="computer.htm" />
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm" />
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm" />
+</map>
+```
+
+### Online tools
+
+  - <https://www.image-map.net/>
+
 ----
 
     File ID: 768ecc56-a468-11ec-829f-e1390173a2b6

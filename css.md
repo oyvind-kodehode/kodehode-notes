@@ -32,6 +32,14 @@ img:hover { opacity: 1; }
 rgba(134, 36, 226, 0.3)
 ```
 
+### Printing
+
+To create a special style for printing, use `<style media="print">`.
+
+``` html
+<link rel="stylesheet" href="style.css" media="print" type="text/css" />
+```
+
 ### Other
 
 `border-radius` creates round corners, can also create round images.
