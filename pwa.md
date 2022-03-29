@@ -61,8 +61,8 @@ Starbucks sin PWA-app er 99.84% mindre enn den eksisterende iOS-appen.
 
   - [12 Best Examples of Progressive Web Apps (PWAs) in 2022](https://simicart.com/blog/progressive-web-apps-examples/)
 
-----
-
+    <!--
     File ID: 4b754cac-a521-11ec-8e08-d9b675428045
     vim: set ts=2 sw=2 sts=2 tw=79 et fo=tcqw fenc=utf8 :
     vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown :
+    -->

@@ -44,8 +44,8 @@ To create a special style for printing, use `<style media="print">`.
 
 `border-radius` creates round corners, can also create round images.
 
-----
-
+    <!--
     File ID: 498be7e0-a529-11ec-aa6d-f12e5a7d320e
     vim: set ts=2 sw=2 sts=2 tw=79 et fo=tcqw fenc=utf8 :
     vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown :
+    -->

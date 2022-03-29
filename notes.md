@@ -63,8 +63,8 @@ Go to <https://html.new> to start a new Scrimba document.
   - <https://clickup.com>
   - <https://codeacademy.com>
 
-----
-
+    <!--
     File ID: 2fd61240-a37a-11ec-a7f4-71684d3bb1ba
     vim: set ts=2 sw=2 sts=2 tw=79 et fo=tcqw fenc=utf8 :
     vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown :
+    -->
