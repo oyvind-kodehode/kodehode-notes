@@ -14,9 +14,7 @@
 
 ## Lecture notes
 
-### Tuesday 2022-03-22
-
-#### CSS opacity
+### CSS opacity
 
 The `opacity` can have values from 0 to 1.
 
@@ -34,7 +32,7 @@ img:hover { opacity: 1; }
 rgba(134, 36, 226, 0.3)
 ```
 
-#### Other
+### Other
 
 `border-radius` creates round corners, can also create round images.
 

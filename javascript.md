@@ -116,9 +116,7 @@ can be found
 
 This section might contain errors because the notes were taken live.
 
-### Monday 2022-03-21 10:00
-
-#### Methods
+### Methods
 
 What is a method?
 
@@ -156,7 +154,7 @@ What is a method?
   - Can take as many arguments as you want to
   - `text.concat(string1, string2, ...)`
 
-#### Arrays
+### Arrays
 
 `.every`
 
@@ -218,7 +216,7 @@ What is a method?
 
   - Tells you the number of characters in the array
 
-#### DOM
+### DOM
 
   - Document Object Model
   - Nodes
