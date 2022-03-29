@@ -1,6 +1,9 @@
 # Makefile
 # File ID: d2cf4d9c-a37d-11ec-adc6-5507122e1adf
 
+ALLHTMLFILE = all.html
+ALLMDFILE = all.md
+ALLPDFFILE = all.pdf
 HTMLFILES  =
 HTMLFILES += README.html
 HTMLFILES += css.html
@@ -20,6 +23,13 @@ PDFFILES += pwa.pdf
 
 .PHONY: all
 all:
+
+$(ALLMDFILE): FORCE
+	rm -f $(ALLMDFILE)
+	for f in *.md; do \
+		cat $$f >>$(ALLMDFILE); \
+		echo >>$(ALLMDFILE); \
+	done
 
 %.html: FORCE
 	test -e "$*.md"
@@ -46,6 +56,7 @@ all:
 
 .PHONY: clean
 clean:
+	rm -f $(ALLPDFFILE) $(ALLHTMLFILE) $(ALLMDFILE)
 	rm -f $(PDFFILES)
 	rm -f $(HTMLFILES)
 
