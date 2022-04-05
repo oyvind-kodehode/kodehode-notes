@@ -62,6 +62,9 @@ Go to <https://html.new> to start a new Scrimba document.
   - <https://wireframe.cc>
   - <https://clickup.com>
   - <https://codeacademy.com>
+  - <https://coolors.co/> — Picks color palettes.
+  - <https://www.codingame.com>
+  - <https://luden.io/wtl/>
 
     <!--
     File ID: 2fd61240-a37a-11ec-a7f4-71684d3bb1ba
