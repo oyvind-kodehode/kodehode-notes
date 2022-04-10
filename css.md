@@ -1,5 +1,22 @@
 # CSS notes
 
+## Fundamental
+
+### Selectors
+
+  - `.abc` selects all elements with class `abc`.
+  - `#abc` selects the element with `id="abc"`.
+  - `*` is the universal selector, selects all elements on the page.
+
+Group selector:
+
+``` css
+h1, h2, p {
+  text-align: center;
+  color: blue;
+}
+```
+
 ## CSS Grid
 
 ### Tutorials
