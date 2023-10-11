@@ -54,6 +54,34 @@ considered plagiarism.
 
 Go to <https://html.new> to start a new Scrimba document.
 
+## VSCode
+
+- Ctrl+p -- command palette
+  - Press `>` in the text area to get a list of preferences, etc.
+  - `@` shows a "map" of the code
+- Keyboard shortcuts
+  - Ctrl+shift+`.`
+  - Ctrl+g -- goto line
+  - Ctrl+l -- mark lines
+  - Doubleblick Ctrl -- create spotlight thing, used to show code to others
+  - Ctrl+d+[mark word] -- create multicursor to change variable names, etc
+  - Ctrl+k Ctrl+r -- show keyboard shortcuts
+- `:input` -- shows input types
+- Alt-z -- word wrap on/off
+
+## Check out
+
+  - [Redux](https://redux.js.org/)
+  - [MERN Stack](https://www.mongodb.com/mern-stack)
+  - [Auth0](https://auth0.com/) (authentication tool, closed source)
+  - Dynamic routing 
+    ([useParams](https://reactrouter.com/docs/en/v6/hooks/use-params))
+  - [Material UI (MUI)](https://mui.com/) (Commercial)
+  - [Bootstrap](https://getbootstrap.com/)
+  - [GraphCMS](https://graphcms.com/) (Commercial)
+  - [Stripe](https://stripe.com)
+  - [Socket.io](https://socket.io/)
+
 ## Useful tools
 
   - [WhatTheFont](https://www.myfonts.com/WhatTheFont/) — Instant font 
