@@ -1,9 +1,9 @@
-# Various notes
+# Various notes <!-- {{{1 -->
 
 This file contains various random notes about several topics. If a section 
 grows too big, it will be promoted to its own file.
 
-## Figma
+## Figma <!-- {{{2 -->
 
 <https://figma.com>
 
@@ -11,9 +11,9 @@ Rectangles: Hold shift when resizing and it will keep it square.
 Libraries: Designs can be shared into the library pool and other people can 
 "clone" it by pressing Duplicate.
 
-## Legalspeak
+## Legalspeak <!-- {{{2 -->
 
-### GDPR (General Data Protection Regulation)
+### GDPR (General Data Protection Regulation) <!-- {{{3 -->
 
 The GDPR was adopted on 2016-04-14 and became enforceable beginning 2018-05-25.
 
@@ -23,19 +23,19 @@ Users have the right to download their data from services.
 
 WWDD – What Would Datatilsynet Do?
 
-#### Links
+#### Links <!-- {{{4 -->
 
   - [General Data Protection Regulation (GDPR) – Official legal text](https://gdpr-info.eu/)
   - [Wikipedia](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
 
-### Plagiarism
+### Plagiarism <!-- {{{3 -->
 
 Originality vs plagiarism, where is the limit?
 
 If a trademark can be confused with another in the same trade, it can be 
 considered plagiarism.
 
-#### Examples of similar logos
+#### Examples of similar logos <!-- {{{4 -->
 
 Loen Skylift vs Voss Gondol. The court decided it was plagiarism because there 
 are similar elements in the logo and they are in the same business.
@@ -50,11 +50,11 @@ Polestar vs Citroën. The logos are very different, but because there's a
 similar element (the angles) and they're both in the car business, it was 
 considered plagiarism.
 
-## Scrimba
+## Scrimba <!-- {{{2 -->
 
 Go to <https://html.new> to start a new Scrimba document.
 
-## VSCode
+## VSCode <!-- {{{2 -->
 
 - Ctrl+p -- command palette
   - Press `>` in the text area to get a list of preferences, etc.
@@ -69,7 +69,7 @@ Go to <https://html.new> to start a new Scrimba document.
 - `:input` -- shows input types
 - Alt-z -- word wrap on/off
 
-## Check out
+## Check out <!-- {{{2 -->
 
   - [Redux](https://redux.js.org/)
   - [MERN Stack](https://www.mongodb.com/mern-stack)
@@ -82,7 +82,7 @@ Go to <https://html.new> to start a new Scrimba document.
   - [Stripe](https://stripe.com)
   - [Socket.io](https://socket.io/)
 
-## Useful tools
+## Useful tools <!-- {{{2 -->
 
   - [WhatTheFont](https://www.myfonts.com/WhatTheFont/) — Instant font 
     identification powered by the world’s largest collection of fonts.
@@ -97,5 +97,5 @@ Go to <https://html.new> to start a new Scrimba document.
     <!--
     File ID: 2fd61240-a37a-11ec-a7f4-71684d3bb1ba
     vim: set ts=2 sw=2 sts=2 tw=79 et fo=tcqw fenc=utf8 :
-    vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown :
+    vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown fdm=marker fdl=1 :
     -->
