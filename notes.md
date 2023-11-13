@@ -1,11 +1,11 @@
 # Various notes <!-- {{{1 -->
 
+File ID: `2fd61240-a37a-11ec-a7f4-71684d3bb1ba`
+
 This file contains various random notes about several topics. If a section 
 grows too big, it will be promoted to its own file.
 
-## Figma <!-- {{{2 -->
-
-<https://figma.com>
+## [Figma](https://figma.com) <!-- {{{2 -->
 
 Rectangles: Hold shift when resizing and it will keep it square.
 Libraries: Designs can be shared into the library pool and other people can 
@@ -50,11 +50,39 @@ Polestar vs Citroën. The logos are very different, but because there's a
 similar element (the angles) and they're both in the car business, it was 
 considered plagiarism.
 
+## [Next.js](https://nextjs.org/) <!-- {{{2 -->
+
+Tutorial: <https://nextjs.org/learn-pages-router/basics/create-nextjs-app>
+
+Init: `npx create-next-app@latest`
+
+## [React](https://react.dev/) <!-- {{{2 -->
+
+Tutorial: <https://react.dev/learn>
+
+The start page is `src/App.js` when `create-react-app` is used, according to 
+[this](https://stackoverflow.com/q/54412563/93279).
+
+React component names must always start with a capital letter, while HTML tags 
+must be lowercase.
+
 ## Scrimba <!-- {{{2 -->
 
 Go to <https://html.new> to start a new Scrimba document.
 
-## VSCode <!-- {{{2 -->
+## [VS Code](https://code.visualstudio.com/) <!-- {{{2 -->
+
+### Musthave extensions <!-- {{{3 -->
+
+  - [**Headwind**](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) 
+    — An opinionated class sorter for Tailwind CSS
+  - [**Tailwind CSS 
+    IntelliSense**](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) 
+    — Intelligent Tailwind CSS tooling for VS Code
+  - [**Vim**](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) 
+    — Vim emulation for Visual Studio Code
+
+### Keyboard shortcuts <!-- {{{3 -->
 
 - Ctrl+p -- command palette
   - Press `>` in the text area to get a list of preferences, etc.
@@ -68,6 +96,16 @@ Go to <https://html.new> to start a new Scrimba document.
   - Ctrl+k Ctrl+r -- show keyboard shortcuts
 - `:input` -- shows input types
 - Alt-z -- word wrap on/off
+
+## [Webpack](https://webpack.js.org/) <!-- {{{2 -->
+
+From <https://webpack.js.org/concepts/>:
+
+> At its core, **webpack** is a *static module bundler* for modern JavaScript 
+> applications. When webpack processes your application, it internally builds a 
+> [dependency graph](/concepts/dependency-graph/) from one or more *entry 
+> points* and then combines every module your project needs into one or more 
+> *bundles*, which are static assets to serve your content from.
 
 ## Check out <!-- {{{2 -->
 
@@ -95,7 +133,6 @@ Go to <https://html.new> to start a new Scrimba document.
   - <https://luden.io/wtl/>
 
     <!--
-    File ID: 2fd61240-a37a-11ec-a7f4-71684d3bb1ba
     vim: set ts=2 sw=2 sts=2 tw=79 et fo=tcqw fenc=utf8 :
     vim: set com=b\:#,fb\:-,fb\:*,n\:> ft=markdown fdm=marker fdl=1 :
     -->
